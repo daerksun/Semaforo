@@ -1,0 +1,10 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPLABX\V5.35\MPASMX\P16F628A.INC 34 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 2 : Found directive in column 1. (__CONFIG)
+Warning[203] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 5 : Found opcode in column 1. (GOTO)
+Message[302] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 45 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 57 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 71 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 73 : Using default destination of 1 (file).
+Message[305] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 80 : Using default destination of 1 (file).
+Warning[205] C:\USERS\YO\MPLABXPROJECTS\5MMS.X\5MMS.ASM 84 : Found directive in column 1. (END)
